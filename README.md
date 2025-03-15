@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 📫 How to reach me:
 
 
-Email: swadhindwibedy@gmail.com
+Email: swsdhindwibedy@gmail.com
 
 LinkedIn: Swadhin Dwibedy
 
