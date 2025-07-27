@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ---
 
 ## 👀 I’m interested in:
-- 💻 Android Development using **Kotlin & Jetpack Compose**
+- 💻 Android Development
 - 🤖 **Robotics and IoT**
 - 📚 **Data Structures & Algorithms (DSA)**
 - 🌱 **Environmental sustainability through tech**
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ---
 
 ## 🌱 I’m currently learning:
-- 🔧 Advanced Android Development (**Jetpack Compose**, **Android Architecture Components**)
+- 🔧 Advanced Android Development (**Making scalable apps**)
 - ☁️ Exploring **Google Cloud** and **Firebase**
 - 🧠 Deepening my understanding of **DSA and problem-solving skills**
 - 🔬 Building innovative solutions using **IoT and Robotics**
