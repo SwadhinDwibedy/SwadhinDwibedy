@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 ## 📫 How to reach me:
 - 📧 Email: [swsdhindwibedy@gmail.com](mailto:swsdhindwibedy@gmail.com)
 - 💼 LinkedIn: [Swadhin Dwibedy](https://www.linkedin.com/in/swadhin-dwibedy-76a19b27b)
-- 🐦 Twitter: [@SwadhinDwibedy](https://twitter.com/SwadhinDwibedy)
 - 🧑‍💻 GitHub: [SwadhinDwibedy](https://github.com/SwadhinDwibedy)
 
 ---
