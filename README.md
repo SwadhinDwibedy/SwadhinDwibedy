@@ -1,43 +1,100 @@
 # 👋 Hi, I'm Swadhin Dwibedy
 
-Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building impactful projects. Below you'll find a little more about me and what I'm currently working on.
+### Android Developer | Kotlin | Jetpack Compose
+
+I'm an **Android Developer** passionate about building modern, scalable, and user-focused mobile applications. I enjoy turning ideas into clean, functional products while continuously improving my development and problem-solving skills.
 
 ---
 
-## 👀 I’m interested in:
-- 💻 Android Development
-- 🤖 **Robotics and IoT**
-- 📚 **Data Structures & Algorithms (DSA)**
-- 🌱 **Environmental sustainability through tech**
+## 🚀 What I Do
+
+* 📱 Build modern Android applications with **Kotlin & Jetpack Compose**
+* 🏗️ Design scalable apps using **MVVM & Clean Architecture**
+* 🌐 Integrate **REST APIs, Firebase & local databases**
+* ⚡ Focus on performance, maintainability, and great user experiences
+* 🧩 Work on real-world products and explore new technologies
 
 ---
 
-## 🌱 I’m currently learning:
-- 🔧 Advanced Android Development (**Making scalable apps**)
-- ☁️ Exploring **Google Cloud** and **Firebase**
-- 🧠 Deepening my understanding of **DSA and problem-solving skills**
-- 🔬 Building innovative solutions using **IoT and Robotics**
+## 🛠️ Tech Stack
+
+**Languages**
+
+* Kotlin
+* Java
+* Python
+
+**Android**
+
+* Android SDK
+* Jetpack Compose
+* MVVM
+* Clean Architecture
+* Navigation
+* Room
+* Retrofit
+
+**Backend & Services**
+
+* REST APIs
+* Firebase
+* JSON
+* WebSockets
+
+**Tools**
+
+* Git & GitHub
+* Android Studio
+* Figma
+* Postman
 
 ---
 
-## 💞️ I’m looking to collaborate on:
-- 📱 Android apps with a focus on **user experience and performance**
-- 🌍 Tech-driven **environmental sustainability** projects
-- 🌐 Open-source projects related to **IoT, Cloud**, or **AI**
+## 📌 Featured Projects
+
+### 🏋️ FitMate
+
+A fitness-focused Android application featuring guided workouts, BMI calculation, calorie tracking, attendance, daily & weekly goals, and personalized workout libraries.
+
+### 🤖 CodeMate
+
+Working on AI-powered developer tools focused on improving the software development workflow, productivity, and code intelligence.
 
 ---
 
-## 📫 How to reach me:
-- 📧 Email: [swsdhindwibedy@gmail.com](mailto:swsdhindwibedy@gmail.com)
-- 💼 LinkedIn: [Swadhin Dwibedy](https://www.linkedin.com/in/swadhin-dwibedy-76a19b27b)
-- 🧑‍💻 GitHub: [SwadhinDwibedy](https://github.com/SwadhinDwibedy)
+## 🌱 Currently Exploring
+
+* Advanced Android architecture
+* Jetpack Compose
+* Scalable mobile application design
+* AI-powered development tools
+* Cloud technologies
+* Data Structures & Algorithms
 
 ---
 
-## 😄 Pronouns:
-**He/Him**
+## 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+* 📱 Android & Kotlin projects
+* 🤖 AI-powered applications
+* 🌐 Open-source projects
+* ⚡ Developer tools
+* 💡 Innovative products solving real-world problems
 
 ---
 
-## ⚡ Fun fact:
-I love playing **badminton** and writing **shayari** in my free time. I believe in solving problems with a mix of **creativity and logic**.
+## 📫 Connect With Me
+
+* 📧 **Email:** [swadhindwibedy@gmail.com](mailto:swadhindwibedy@gmail.com)
+* 💼 **LinkedIn:** [Swadhin Dwibedy](https://www.linkedin.com/in/swadhin-dwibedy-76a19b27b)
+* 🧑‍💻 **GitHub:** [SwadhinDwibedy](https://github.com/SwadhinDwibedy)
+
+---
+
+## ⚡ A Little About Me
+
+Outside of coding, I enjoy **playing badminton and writing shayari**. I like approaching problems with a combination of **logic, creativity, and curiosity**.
+
+> *Build. Learn. Improve. Repeat.*
